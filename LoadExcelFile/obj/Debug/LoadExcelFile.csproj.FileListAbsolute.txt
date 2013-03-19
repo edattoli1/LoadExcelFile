@@ -1,0 +1,9 @@
+c:\users\eric\documents\visual studio 2012\Projects\LoadExcelFile\LoadExcelFile\bin\Debug\LoadExcelFile.exe.config
+c:\users\eric\documents\visual studio 2012\Projects\LoadExcelFile\LoadExcelFile\bin\Debug\LoadExcelFile.exe
+c:\users\eric\documents\visual studio 2012\Projects\LoadExcelFile\LoadExcelFile\bin\Debug\LoadExcelFile.pdb
+c:\users\eric\documents\visual studio 2012\Projects\LoadExcelFile\LoadExcelFile\obj\Debug\LoadExcelFile.csprojResolveAssemblyReference.cache
+c:\users\eric\documents\visual studio 2012\Projects\LoadExcelFile\LoadExcelFile\obj\Debug\LoadExcelFile.Form1.resources
+c:\users\eric\documents\visual studio 2012\Projects\LoadExcelFile\LoadExcelFile\obj\Debug\LoadExcelFile.Properties.Resources.resources
+c:\users\eric\documents\visual studio 2012\Projects\LoadExcelFile\LoadExcelFile\obj\Debug\LoadExcelFile.csproj.GenerateResource.Cache
+c:\users\eric\documents\visual studio 2012\Projects\LoadExcelFile\LoadExcelFile\obj\Debug\LoadExcelFile.exe
+c:\users\eric\documents\visual studio 2012\Projects\LoadExcelFile\LoadExcelFile\obj\Debug\LoadExcelFile.pdb
